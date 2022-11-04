@@ -7,8 +7,9 @@ The scripts contain instructions on how to use the methods, including suggeste a
 
 ## Read the descriptions carefully
 ## Do not borrow code you do not understand!
-This means you should take the time to **play** (_what happens when you change parameters? Values?_)
-Take the time to **read the docummentation** on new methods in pygame. (_does it do what you think it does? Can you improve upon it for your code?_)
+This means you should take the time to:
+    - **play** (_what happens when you change parameters? Values?_)
+    - Take the time to **read the documentation** on new methods in pygame. (_does it do what you think it does? Can you improve upon it for your code?_)
 (https://www.pygame.org/docs/ref/rect.html)[Pygame Docummentation]
 
 ## After copying code

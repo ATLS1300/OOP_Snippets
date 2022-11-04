@@ -17,3 +17,5 @@ This means you should take the time to:
 2. Use the tracebacks to locate values or names that need to be **created** or changed to get the method to work
 3. **Change the code** you will probably have to change code in conditionals or loops to do exactly what you need
 4. Celebrate!
+
+## You can borrow this code for free! (No citation needed, no borrow limit application)

@@ -18,4 +18,12 @@ This means you should take the time to:
 3. **Change the code** you will probably have to change code in conditionals or loops to do exactly what you need
 4. Celebrate!
 
-## You can borrow this code for free! (No citation needed, no borrow limit application)
+## What's the "event for loop"?
+This thing, inside your while loop:
+```
+    for event in pygame.event.get():
+        if (event.type == pygame.QUIT):
+            pygame.quit()
+```
+
+## You can borrow ALL of this repository code for free! (No citation needed, no borrow limit application)

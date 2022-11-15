@@ -1,4 +1,7 @@
 '''
+AUTHOR: Suibi
+11/9/2022
+
 Uses pygame Timer and font objects to make a countup (stopwatch) and countdown timer class.
 
 To use, either copy methods and attributes to use as needed or import with:

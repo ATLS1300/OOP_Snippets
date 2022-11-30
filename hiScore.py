@@ -3,7 +3,7 @@ Reading & Writing Hi Score Files
 
 Note, to make smaller files, this script uses the csv library, not the pandas library.
 
-To use (3 ways):
+To use (2 ways):
 A. copy the functions and use them in classes (editing required)
 B. download this file, save it to the same foldr as your script, import & use dot notation:
     import hiScore

@@ -37,6 +37,7 @@ class Collector:
         elif event.type == pygame.MOUSEBUTTONUP:
             # release button, stop collecting points
             self.drag = False
+            print(self.pts) # prints whenever it's finished tracking points
             return self.pts
         
         elif self.drag and event.type == pygame.MOUSEMOTION:

@@ -42,7 +42,7 @@ class Timer:
   def countUp(self):
       '''calculates time passed and returns time in
       seconds (int).'''
-      self.currTime = int(getTime())
+      self.currTime = int(self.getTime())
       return self.currTime
       
   def countDown(self):
@@ -51,7 +51,7 @@ class Timer:
       self.currTime = self.totalTime-self.countUp()
       return self.currTime
     
-  def setCurrTime(self,time):
+  def setTime(self,time):
       self.currTime = time
   
   def showTime(self, surface):
